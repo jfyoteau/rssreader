@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RSSリーダー</string>
+    <string name="action_settings">設定</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="apply">決定</string>
+    <string name="add">追加</string>
+    <string name="delete">削除</string>
+    <string name="cancel">キャンセル</string>
+
+    <string name="error_title">エラー</string>
+    <string name="error_connection">%sに接続できません。</string>
+
+    <string name="setting_title_max_length">タイトルの最大桁数</string>
+    <string name="setting_body_max_length">本文の最大桁数</string>
+    <string name="setting_url">URL一覧</string>
+    <string name="setting_add_url_title">URLの追加</string>
+</resources>
